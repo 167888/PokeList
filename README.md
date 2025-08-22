@@ -3,9 +3,13 @@
 1. Filtros Avançados e Interativos
 
 Filtros por tipo como Água 💧, Fogo 🔥, Planta 🌿 e Pedra 🪨 para facilitar a busca.
+
 Seleção por geração 🎮 com transições suaves para navegar entre as eras.
+
 Filtros especiais para Pokémon lendários ✨, míticos 🛡️, shiny 🌟 e regionais 🗺️.
+
 Combinação de filtros para buscas mais precisas 🎯.
+
 Checkboxes com efeito animado ✔️ que mostram claramente o que foi selecionado.
 
 
