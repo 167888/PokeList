@@ -2,6 +2,10 @@
 
 1. Filtros Avançados e Interativos
 
+
+
+
+
 Filtros por Tipo: Água 💧, Fogo 🔥, Planta 🌿, Pedra 🪨, e todos os outros tipos com caixas de seleção animadas.
 
 Filtros por Geração: Botões para selecionar Pokémon por geração 🎮, com efeito de transição suave.
