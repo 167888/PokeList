@@ -13,6 +13,7 @@ Combinação de filtros para buscas mais precisas 🎯.
 Checkboxes com efeito animado ✔️ que mostram claramente o que foi selecionado.
 
 
+
 2. Página Detalhada do Pokémon
 
 Imagem em alta qualidade 📸 com animação para dar vida ao Pokémon.
