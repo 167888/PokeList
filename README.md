@@ -1,6 +1,6 @@
 # PokeList
 
-1. Filtros Avançados e Interativos 🔍⚡
+1. Filtros Avançados e Interativos
 
 Filtros por Tipo: Água 💧, Fogo 🔥, Planta 🌿, Pedra 🪨, e todos os outros tipos com caixas de seleção animadas.
 
